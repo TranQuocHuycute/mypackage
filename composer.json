@@ -20,7 +20,7 @@ mypackage
 database		
 ],		
 "psr-4": {		
-"TranQuocHuycute\\mypakage\\": "src/"		
+"TranQuocHuycute\\Mypakage\\": "src/"		
 }		
 },		
 "autoload-dev": {		
