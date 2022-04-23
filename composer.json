@@ -1,37 +1,29 @@
-{		
-"name": "TranQuocHuycute/mypackage",		
-"description": "mypackage"		
-"keywords": [		
-mypackage		
-],		
-"authors": [		
-{		
-"name": "foostart",		
-"email": "foostart.com@gmail.com"		
-}		
-],		
-"license": "MIT",		
-"require": {		
-},		
-"require-dev": {		
-},		
-"autoload": {		
-"classmap": [		
-database		
-],		
-"psr-4": {		
-"TranQuocHuycute\\Mypakage\\": "src/"		
-}		
-},		
-"autoload-dev": {		
-"classmap": [		
-		
-]		
-},		
-"scripts": {		
-},		
-"minimum-stability": "dev",		
-"config": {		
-"preferred-install": "dist"		
-}		
-}		
+{
+  "name": "TranQuocHuycute/mypackage",
+  "description": "Package by TranQuocHuycute",
+  "keywords": [
+    "mypackage"
+  ],
+  "authors": [
+    {
+      "name": "TranQuocHuycute",
+      "email": "20211tt1283@mail.tdc.edu.vn"
+    }
+  ],
+  "license": "MIT",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "TranQuocHuycute\\Mypackage\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "classmap": []
+  },
+  "scripts": {},
+  "minimum-stability": "dev",
+  "config": {
+    "preferred-install": "dist"
+  }
+}
