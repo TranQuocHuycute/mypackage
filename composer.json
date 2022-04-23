@@ -1,12 +1,12 @@
 {
-  "name": "TranQuocHuycute/mypackage",
-  "description": "Package by TranQuocHuycute",
+  "name": "trantuochuycute/mypackage",
+  "description": "Package by tranquochuycute",
   "keywords": [
     "mypackage"
   ],
   "authors": [
     {
-      "name": "TranQuocHuycute",
+      "name": "tranquochuycute",
       "email": "20211tt1283@mail.tdc.edu.vn"
     }
   ],
@@ -15,7 +15,7 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "TranQuocHuycute\\Mypackage\\": "src/"
+      "tranquochuycute\\Mypackage\\": "src/"
     }
   },
   "autoload-dev": {
